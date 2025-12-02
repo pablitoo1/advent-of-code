@@ -12,7 +12,11 @@ Install the required dependencies using npm:
 ```
 npm install
 ```
-Run the solution for a specific day (for example):
+Run the solution for a specific day (for example) and current year:
 ```
 npm run day 1
+```
+Run the solution for a specific day (for example) and choosen year:
+```
+npm run day 1 2024
 ```
